@@ -36,4 +36,4 @@ Automates the process of gf tool written by [tomnomnom](https://github.com/tomno
 
 * GF by [Tomnomnom](https://github.com/tomnomnom)
 
-* Gf-Patterns by [Shiva](https://github.com/1ndianl33t)
+* Gf-Patterns by [1ndianl33t](https://github.com/1ndianl33t)
