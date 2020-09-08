@@ -1,4 +1,4 @@
-# gau-007
+# gf-007
 ## [GF](https://github.com/tomnomnom/gf) By [![Twitter](https://img.shields.io/badge/twitter-@TomNomNom-blue.svg)](https://twitter.com/TomNomNom) 
 Automates the process of gf tool written by [tomnomnom](https://github.com/tomnomnom)
 
