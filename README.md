@@ -28,8 +28,12 @@ Automates the process of gf tool written by [tomnomnom](https://github.com/tomno
 
 ## FLAGS [YET TO BE ADDED]
 ```
--s --silent    --> Does not print the output on the terminal
--w --whitelist --> Analyze these extension files only [Ex: js,txt,html]
+-a --all-files --> Run Gf on js,html,etc files
+-u --url-files --> Run Gf on Files having URLs [Ex: -u gau.txt,file2]")
+-s --silent    --> Does not print the output on the terminal [YetToAdd]
+-w --whitelist --> Run Gf only on these extensions(Ex: js,html,txt) [YetToAdd]
+-b --blacklist --> Exclude gf on these file extensions(php,html) [YetToAdd]
+
 ```
 
 ## CREDITS
