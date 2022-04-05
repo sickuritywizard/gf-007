@@ -9,10 +9,9 @@ Automates the process of gf tool written by [tomnomnom](https://github.com/tomno
 ## Installation
 ```
 ▶ pip3 install termcolor
-▶ git clone https://github.com/killeroo7/gau-007.git
-▶ cd gau-007
-▶ chmod +x gau-007.py
-▶ ln -s $PWD/urls-007.py /usr/local/bin/gau-007 [Add the file to the path environment]
+▶ git clone https://github.com/killeroo7/gf-007.git
+▶ cd gf-007 && chmod +x gf-007.py
+▶ ln -s $PWD/urls-007.py /usr/local/bin/gf-007 [Add the file to the path environment]
 ```
 
 ## Description
@@ -23,7 +22,7 @@ Automates the process of gf tool written by [tomnomnom](https://github.com/tomno
 
 ## Usage
 ```
-▶ gau-007 --> Runs gf in the current directory and stores the output in gf-results folder
+▶ gf-007 --> Runs gf in the current directory and stores the output in gf-results folder
 ```
 
 ## FLAGS [YET TO BE ADDED]
